@@ -1,14 +1,14 @@
 # mensch-maschine
 The Man-Machine in your terminal wooh!
 
-_Usage_
+__Usage__
 
-⋅⋅⋅mensch [OPTIONAL FLAGS]
+   mensch [OPTIONAL FLAGS]  
 
-_Options:_
+__Options:__
 
-⋅⋅⋅ **-w, --words**         Printed word
+   **-w, --words**         Printed word  
 
-⋅⋅⋅ **-f, --first**         First delay
+   **-f, --first**         First delay  
 
-⋅⋅⋅ **-l, --last**          Letter coloring delay
+   **-l, --last**          Letter coloring delay  
